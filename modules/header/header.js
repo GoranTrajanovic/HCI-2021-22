@@ -9,7 +9,7 @@ const Header = () => {
       <main className={styles.content}>
         <Image src={LogoImg} width={50} height={50} alt="Logo image" />
         <nav>
-          <li>Homee</li>
+          <li>Home</li>
           <li>About</li>
           <li>Showcase</li>
           <li>Blog</li>
